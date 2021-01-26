@@ -15,7 +15,7 @@ cd public
 git add -A
 
 # Commit changes.
-msg="rebuilding site $(date)"
+msg="Rebuilding site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
