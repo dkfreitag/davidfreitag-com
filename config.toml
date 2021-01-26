@@ -19,9 +19,6 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-
-disableFingerprinting = true
-
 title = "David Freitag"
 author = "David Freitag"
 #copyright = "2020-2021"
