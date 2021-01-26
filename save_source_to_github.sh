@@ -17,7 +17,7 @@ msg="Updates committed on $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
-git commit -m "$msg"
+git commit -a -m "$msg"
 
 # Push
 git push origin master -f
