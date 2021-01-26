@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Freitag</title>
+    <link>https://davidfreitag.com/</link>
+    <description>Recent content on David Freitag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://davidfreitag.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://davidfreitag.com/about/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/about/</guid>
+      <description>I am currently a master&amp;rsquo;s student at Baruch College studying Information Systems with a concentration in Data Analytics.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://davidfreitag.com/post/my-first-post/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/post/my-first-post/</guid>
+      <description>This is where I will write my first post.
+Google</description>
+    </item>
+    
+    <item>
+      <title>My Nth Post</title>
+      <link>https://davidfreitag.com/post/my-nth-post/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/post/my-nth-post/</guid>
+      <description>This is where I will write my nth post.
+Google</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://davidfreitag.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://davidfreitag.com/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidfreitag.com/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
