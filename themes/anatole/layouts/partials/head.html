@@ -14,13 +14,13 @@
     {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet"
           href="{{ $style.Permalink }}"
-          integrity=""
+          integrity="{{ $style.Data.Integrity }}"
           crossorigin="anonymous"
           type="text/css">
     {{ $markupHighlightStyle := resources.Get "css/markupHighlight.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet"
         href="{{ $markupHighlightStyle.Permalink }}"
-        integrity=""
+        integrity="{{ $markupHighlightStyle.Data.Integrity }}"
         crossorigin="anonymous"
         type="text/css">
     {{ range .Site.Params.customCss }}
@@ -28,7 +28,7 @@
         {{ $styles := $minstyles | resources.Minify | resources.Fingerprint }}
         <link rel="stylesheet"
         href="{{ $styles.Permalink }}"
-        integrity=""
+        integrity="{{ $styles.Data.Integrity }}"
         crossorigin="anonymous"
         media="screen" />
     {{ end }}
@@ -55,7 +55,7 @@
     {{ $secureHeaderJS := $anatoleHeader |  resources.Minify | resources.Fingerprint }}
     <script type="text/javascript"
             src="{{ $secureHeaderJS.Permalink }}"
-            integrity=""
+            integrity="{{ $secureHeaderJS.Data.Integrity }}"
             crossorigin="anonymous"></script>
 
 
@@ -64,7 +64,7 @@
         {{ $secureThemeSwitcherJS := $anatoleThemeSwitcher |  resources.Minify | resources.Fingerprint }}
         <script type="text/javascript"
                 src="{{ $secureThemeSwitcherJS.Permalink }}"
-                integrity=""
+                integrity="{{ $secureThemeSwitcherJS.Data.Integrity }}"
                 crossorigin="anonymous"></script>
     {{ end }}
 
@@ -88,7 +88,7 @@
     {{- $secureJS := $js |  resources.Minify | resources.Fingerprint -}}
     <script type="text/javascript"
             src="{{ $secureJS.Permalink }}"
-            integrity=""
+            integrity="{{ $secureJS.Data.Integrity }}"
             crossorigin="anonymous"></script>
     {{- end -}}
 
