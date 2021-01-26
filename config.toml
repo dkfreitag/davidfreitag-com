@@ -89,7 +89,7 @@ url = "mailto:david.freitag@baruchmail.cuny.edu"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Archive"
   weight = 200
   identifier = "posts"
   url = "/post/"
