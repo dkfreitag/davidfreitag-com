@@ -106,5 +106,5 @@ url = "mailto:david.freitag@baruchmail.cuny.edu"
 #  identifier = "contact"
 #  url = "/contact/"
 
-[params.assets]
-disableFingerprinting = false
+#[params.assets]
+#disableFingerprinting = false
