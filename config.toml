@@ -7,9 +7,6 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
-[params.assets]
-disableFingerprinting = true
-
 # Enable Disqus
 #disqusShortname = ""
 
@@ -22,6 +19,9 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
+
+disableFingerprinting = true
+
 title = "David Freitag"
 author = "David Freitag"
 #copyright = "2020-2021"
