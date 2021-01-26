@@ -105,7 +105,3 @@ url = "mailto:david.freitag@baruchmail.cuny.edu"
 #  weight = 400
 #  identifier = "contact"
 #  url = "/contact/"
-
-# Fix SRI bug
-[[params.assets]]
-disableFingerprinting = true
