@@ -16,9 +16,21 @@ I'm currently searching for internship opportunities as a:
 * Business Analyst Intern
 * Data Science Intern
 
-**Completed Coursework:** Programming for Analytics (Python), Database Management, Systems Analysis and Design, Information Technology Strategy, Managerial Statistics
+**Current Coursework:**
 
-**Current Coursework:** Data Warehousing and Analytics, Big Data Technologies, Data Mining for Business Analytics, Object Oriented Programming (C++)  
+- Data Warehousing and Analytics
+- Big Data Technologies
+- Data Mining for Business Analytics
+- Object Oriented Programming (C++)
+- Information Systems Development and Project Management
+
+**Completed Coursework:**
+
+- Programming for Analytics (Python)
+- Database Management
+- Systems Analysis and Design
+- Information Technology Strategy
+- Managerial Statistics 
 
 #### Technology Skills:
 
