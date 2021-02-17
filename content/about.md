@@ -1,7 +1,7 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2021-01-25"
+description = "David Freitag About Me"
+date = "2021-02-17"
 aliases = ["about-me"]
 author = "David Freitag"
 +++
@@ -36,9 +36,9 @@ I'm currently searching for internship opportunities as a:
 
 ---
 
-**Programming Languages:** HTML/CSS, Python, R, C++  
-**Database Management:** SQL, PostgreSQL, MS Access  
-**Productivity:** GitHub, Jira, Microsoft Office, Adobe 
-Creative Cloud (Photoshop, InDesign)  
-**Customer Relationship Management:** Salesforce, Totango  
-**Email Service Providers/Analytics:** Mailchimp, PostUp, Listrak, Google Analytics
+**Programming Languages:** Python (NumPy, pandas, Matplotlib, Seaborn, Scikit-learn), R, C++, HTML5/CSS3  
+**Database Management** SQL, PostgreSQL databases, Google BigQuery  
+**Data Visualization:** Tableau  
+**Cloud Computing:** Amazon Web Services (AWS), Docker  
+**Productivity:** Git/GitHub, Jira, Unix/Linux shell, Microsoft Excel  
+**Additional quantitative/technical skills:** Probability/statistics, data cleaning and visualization, data mining, machine learning, time series analysis and forecasting techniques 
