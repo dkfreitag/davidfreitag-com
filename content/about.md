@@ -15,6 +15,8 @@ In my previous role at DojoMojo, I worked as part of the Customer Success team, 
 ---
 
 - **Programming Languages:** Python (NumPy, pandas, Matplotlib, Seaborn, Scikit-learn, SciPy), R, C++, HTML5/CSS3
+
+
 - **Data Mining/Machine Learning:** linear and logistic regression, random forests, gradient boosting, XGBoost, clustering algorithms, recommendation algorithms, principal component analysis, independent component analysis, text mining, natural language processing, time series analysis and forecasting (Facebook Prophet, seasonal ARIMA)
 - **Distributed Data/Big Data Technologies:** Hadoop MapReduce, Spark
 - **Database Management:** SQL, Snowflake, PostgreSQL, MySQL, Google BigQuery, ETL processes
