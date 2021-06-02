@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "David Freitag About Me"
-date = "2021-02-17"
+date = "2021-06-01"
 aliases = ["about-me"]
 author = "David Freitag"
 +++
