@@ -18,12 +18,26 @@ In my previous role at DojoMojo, I worked as part of the Customer Success team, 
 
 
 - **Data Mining/Machine Learning:** linear and logistic regression, random forests, gradient boosting, XGBoost, clustering algorithms, recommendation algorithms, principal component analysis, independent component analysis, text mining, natural language processing, time series analysis and forecasting (Facebook Prophet, seasonal ARIMA)
+
+
 - **Distributed Data/Big Data Technologies:** Hadoop MapReduce, Spark
+
+
 - **Database Management:** SQL, Snowflake, PostgreSQL, MySQL, Google BigQuery, ETL processes
+
+
 - **Cloud Computing:** Amazon Web Services (AWS): Kinesis, S3, Glue, Lambda, Athena
+
+
 - **Productivity/Software Engineering:** Git/GitHub/GitLab, Jira, Docker, Unix/Linux shell
+
+
 - **Data Visualization:** Tableau, Microsoft Excel
+
+
 - **Simulation:** AnyLogic Multimethod Simulation Software Training (completed April 2021)
+
+
 - **Additional quantitative/technical skills:** Probability/statistics, linear algebra, data cleaning and visualization
 
 ---
