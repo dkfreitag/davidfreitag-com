@@ -46,12 +46,30 @@ In my previous role at DojoMojo, I worked as part of the Customer Success team, 
 #### Degree Coursework:
 
 - Data Warehousing and Analytics
+
+
 - Big Data Technologies
+
+
 - Data Mining for Business Analytics (Machine Learning)
+
+
 - Object Oriented Programming (C++)
+
+
 - Information Systems Development and Project Management
+
+
 - Programming for Analytics (Python)
+
+
 - Database Management
+
+
 - Systems Analysis and Design
+
+
 - Information Technology Strategy
+
+
 - Managerial Statistics 
