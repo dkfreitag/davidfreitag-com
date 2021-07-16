@@ -6,9 +6,9 @@ aliases = ["about-me"]
 author = "David Freitag"
 +++
 
-I am currently a **Data Science Intern** at **Pitney Bowes** and a recent graduate of **Baruch College** with a master's degree in **Information Systems/Data Analytics.** I seek to help organizations make data-driven decisions that will accelerate their ability to achieve key goals.
+I am currently a **Data Engineer** at **American Family Insurance** and a graduate of **Baruch College** with a master's degree in **Information Systems/Data Analytics.** I seek to help organizations effectively and efficiently leverage big data solutions to make informed decisions, reduce uncertainty, and drive value for clients and stakeholders.
 
-In my previous role at DojoMojo, I worked as part of the Customer Success team, leading a team of three partnership marketing specialists to help our clients grow their businesses through brand-aware and data-driven partnerships. Prior to my time at DojoMojo, I taught high school in Wisconsin.
+In my previous role as a Data Science Intern at Pitney Bowes, I created detailed analyses and predictive machine learning models, and I communicated key insights with business stakeholders and C-level executives. Before my internship at Pitney Bowes, I worked at DojoMojo as part of the Customer Success team, leading a team of three partnership marketing specialists to help our clients grow their businesses through brand-aware and data-driven partnerships. Prior to my time at DojoMojo, I taught high school English in Wisconsin.
 
 #### Technology Skills:
 
