@@ -23,7 +23,7 @@ Don't forget to check the README.md file!
 
 -->
 
-123Hello,
+Hello,
 
 I'm David Freitag.
 
