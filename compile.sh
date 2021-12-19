@@ -2,7 +2,7 @@
 
 git rm -r --cached public
 rm -rf public
-git submodule add https://github.com/dkfreitag/dkfreitag.github.io.git public --force
+git submodule add https://github.com/dkfreitag/dkfreitag.github.io.git public
 
 ./build_site.sh
 
