@@ -8,4 +8,3 @@ git submodule add --force https://github.com/dkfreitag/dkfreitag.github.io.git p
 
 ./save_source_to_github.sh
 
-#12-19-21
