@@ -7,3 +7,5 @@ git submodule add --force https://github.com/dkfreitag/dkfreitag.github.io.git p
 ./build_site.sh
 
 ./save_source_to_github.sh
+
+#12-19-21
