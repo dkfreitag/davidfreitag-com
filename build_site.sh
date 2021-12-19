@@ -5,6 +5,9 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# remove cache so we can push the submodule successfully
+git rm --cached . -rf
+
 # Build the project.
 hugo -D # if using a theme, replace with `hugo -t <YOURTHEME>`
 
