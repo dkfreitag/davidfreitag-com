@@ -20,4 +20,4 @@ fi
 git commit -a -m "$msg"
 
 # Push
-git push origin master -f
+git push origin master --force
