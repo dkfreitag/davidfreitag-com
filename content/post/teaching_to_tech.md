@@ -4,10 +4,10 @@ title = "I quit my teaching job and built a career in tech. Here's how I did it.
 date = "2021-12-24"
 description = "I quit my teaching job and built a career in tech. Here's how I did it."
 tags = [
-    "Career Change, Data Engineering, Startups"
+"Career Change", "Data Engineering", "Startups"
 ]
 categories = [
-"Career Change, Data Engineering, Startups"
+"Career Change", "Data Engineering", "Startups"
 ]
 +++
 
