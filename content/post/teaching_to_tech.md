@@ -38,9 +38,7 @@ Are you a teacher who is considering quitting your job and doing something else?
 
 You are absolutely not alone in these feelings.
 
-- [30% of teachers are planning to leave the profession within the next five years](https://www.brookings.edu/blog/brown-center-chalkboard/2021/09/08/how-the-pandemic-has-changed-teachers-commitment-to-remaining-in-the-classroom/).
-
-- Given that there are 3.6 million teachers in the US, that is roughly 1.1 million people feeling the way you feel.
+- [30% of teachers are planning to leave the profession within the next five years](https://www.brookings.edu/blog/brown-center-chalkboard/2021/09/08/how-the-pandemic-has-changed-teachers-commitment-to-remaining-in-the-classroom/). Given that there are 3.6 million teachers in the US, that is roughly 1.1 million people feeling the way you feel.
 
 - Even if only a portion of those teachers decide to leave, that’s an incredible exodus, especially considering [fewer and fewer people are choosing to become teachers.](https://www.nytimes.com/2021/03/27/us/covid-school-teaching.html)
 
