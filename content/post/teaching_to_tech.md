@@ -39,7 +39,7 @@ You are absolutely not alone in these feelings.
 
 Here is the path I took when I was considering leaving teaching. If you're thinking about leaving the classroom, I hope it will help you navigate your own journey and hopefully provide a roadmap for those seeking to step onto a new career path.
 
-###Leaving Teaching
+### Leaving Teaching
 
 The world of education was a huge part of my life for over a decade. In college, I majored in education and spent five years learning to become a teacher (I did an entire year of student teaching for my fifth year). I taught high school English full time for six years, I participated in two National Writing Project institutes, I coached forensics and debate, I earned 12 credits toward a master’s degree in education, and I worked at a top 5% ranked public high school in the country according to US News and World Report. I was very invested in teaching as a career, as a lifestyle, and as part of my identity, and I had a good job with wonderful colleagues and students. I believed, and still believe, that the work educators do is some of the most important work that can be done. I was in love with teaching–or, at least, parts of it. Like most teachers, grading papers sucked, and it was a pain to deal with difficult students and demanding parents. But every job has its challenges, right? I was afraid to leave something I had invested so much in and that I had a deep understanding of and affection for. I also felt a bit guilty about leaving my students and colleagues to go do something that I hoped would be less stressful and more lucrative.
 
@@ -55,7 +55,7 @@ So, with the completion of the 2018 school year, I quit my teaching job in Wisco
 
 Luckily for you, the 2022 job market is on fire for job seekers much like it was for me in 2018, and because you could apply, interview, be hired, and even work fully remotely, the risks and barriers for switching jobs are lower than ever.
 
-###Why work for a startup?
+### Why work for a startup?
 
 Working at a startup has a lot in common with teaching:
 You are expected to wear all kinds of hats and generally be a Swiss Army Knife.
@@ -78,7 +78,7 @@ Companies with cash earmarked for growth are companies looking to hire. Addition
 
 As a side note, in 2022, almost all startups are tech startups to some degree. A startup by definition is a company doing something that has generally never been done before, and in the modern world, that means technology is involved. You don’t have to be in love with technology, but using technology to provide new solutions to old problems constitutes an enormous portion of the money that is made today. If you are going to start a new career, working in a space that has future growth potential is going to provide you with a solid foundation that will give you options, flexibility, and marketability as an employee.
 
-###What kinds of jobs can I even do? Where should I apply?
+### What kinds of jobs can I even do? Where should I apply?
 
 Sending your resume off into the void that is every job opening on LinkedIn is not an effective strategy. For the reasons described above, I firmly believe that startups are the best place to look for a new job if you are making a career change from teaching. But what kinds of jobs should you apply for? What are you qualified to do? Where can you even find these jobs?
 
@@ -111,7 +111,7 @@ Other places to look for startup jobs:
 
 Once you have your first new job outside of teaching–once you have your foot in the door–you can take some time to collect a paycheck (likely bigger than your current teacher paycheck) and learn the lay of the land before deciding on the next steps in your career trajectory.
 
-###Telling Your Story
+### Telling Your Story
 
 As part of the interview process, you will need to be able to tell a positive narrative about why you are leaving teaching, why you want to work for a tech startup, and what skills you developed as a teacher that will make you valuable as an employee somewhere else. Here is the story I told employers when they wanted to know why I was trying to go from high school English teacher to tech startup employee:
 
@@ -119,7 +119,7 @@ _It seems odd that I would jump from being an English teacher to working in tech
 
 That makes a lot of sense, right? It’s all true, but it’s a narrative that only tells a small part of my story. In fact, it’s even a particular version of my story that leaves a lot out–but its purpose is to make someone I’m speaking with feel like my career change is purposeful, instead of a totally random leap. In fact, it seems like a perfectly logical transition because of who I am and what I am interested in. It’s my “pitch” for explaining something that makes no sense to most people at first–but after telling this story, I’ve positioned myself to be unique: I have all the soft skills of a teacher and a demonstrated willingness and interest in learning the “hard” skills required to work in a new role at a tech startup. And since the 15-minute vibe-check phone call is an indelible hallmark of the startup hiring process, you will need to have a pitch like this of your own ready to give.
 
-###What if my new job isn’t what I want to do either?
+### What if my new job isn’t what I want to do either?
 
 Let’s say you are able to find a job outside of teaching, but it turns out that you aren’t quite in love with this role either. One benefit of getting a job at a smaller company is that now you’ll have personal relationships with coworkers in lots of different roles inside your company, and you can interview them about what their work is like and how they got there. You may find that you want to transition to doing something different than what you were hired for. Luckily, at a startup, there is more work to go around than people to do it, so there’s a high probability that you could take on work in whatever desired role you’re considering as a side project to gain experience and see if you enjoy it.
 
@@ -127,7 +127,7 @@ After working at a startup and doing everything from Customer Success to marketi
 
 Former teachers are also uniquely suited to have success once they are promoted into management roles. If you can manage a classroom and organize the daily activities of 35+ students every hour, you can manage, organize, and support a team of motivated and intelligent adults.
 
-###What’s next?
+### What’s next?
 
 Aside from reading the diatribe that is this article, you should also:
 
@@ -139,7 +139,7 @@ Aside from reading the diatribe that is this article, you should also:
 - Apply to jobs, have interviews, good luck!
 
 
-###I just want the tl;dr summary.
+### I just want the tl;dr summary.
 
 Here it is:
 
