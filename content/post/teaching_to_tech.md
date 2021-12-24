@@ -16,7 +16,7 @@ _I used to teach high school English. Now, I'm a Data Engineer at a Fortune 500 
 
 _Here is my story about why I left teaching, how I found a new career, and what you can do if you want to find success making the transition from working as a teacher to working in tech._
 
----
+***
 
 Are you a teacher who is considering quitting your job and doing something else? Maybe you’ve thought about it, but you probably have lots of questions and you’re not sure where to begin.
 
@@ -46,7 +46,7 @@ You are absolutely not alone in these feelings.
 
 Here is the path I took when I was considering leaving teaching. If you're thinking about leaving the classroom, I hope it will help you navigate your own journey and hopefully provide a roadmap for those seeking to step onto a new career path.
 
-## Leaving Teaching
+### Leaving Teaching
 
 The world of education was a huge part of my life for over a decade. In college, I majored in education and spent five years learning to become a teacher (I did an entire year of student teaching for my fifth year). I taught high school English full time for six years, I participated in two National Writing Project institutes, I coached forensics and debate, I earned 12 credits toward a master’s degree in education, and I worked at a top 5% ranked public high school in the country according to US News and World Report. I was very invested in teaching as a career, as a lifestyle, and as part of my identity, and I had a good job with wonderful colleagues and students. I believed, and still believe, that the work educators do is some of the most important work that can be done. I was in love with teaching–or, at least, parts of it. Like most teachers, grading papers sucked, and it was a pain to deal with difficult students and demanding parents. But every job has its challenges, right? I was afraid to leave something I had invested so much in and that I had a deep understanding of and affection for. I also felt a bit guilty about leaving my students and colleagues to go do something that I hoped would be less stressful and more lucrative.
 
