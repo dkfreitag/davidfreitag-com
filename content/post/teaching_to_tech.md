@@ -16,7 +16,7 @@ _I used to teach high school English. Now, I'm a Data Engineer at a Fortune 500 
 
 _Here is my story about why I left teaching, how I found a new career, and what you can do if you want to find success making the transition from working as a teacher to working in tech._
 
---
+-
 
 Are you a teacher who is considering quitting your job and doing something else? Maybe you’ve thought about it, but you probably have lots of questions and you’re not sure where to begin.
 
