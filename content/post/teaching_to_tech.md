@@ -65,13 +65,20 @@ Luckily for you, the 2022 job market is on fire for job seekers much like it was
 ### Why work for a startup?
 
 Working at a startup has a lot in common with teaching:
-You are expected to wear all kinds of hats and generally be a Swiss Army Knife.
-You sometimes need to pull extra hours to finish a project.
-You need to take initiative and manage your own time effectively.
-You need to be frugal, efficient, and creative in finding solutions to problems you’ve never seen before.
-You need to “build the plane while you are flying it.”
-You need to learn new skills, take risks, and learn from mistakes.
-You need to handle stress and uncertainty with grace.
+
+- You are expected to wear all kinds of hats and generally be a Swiss Army Knife.
+
+- You sometimes need to pull extra hours to finish a project.
+
+- You need to take initiative and manage your own time effectively.
+
+- You need to be frugal, efficient, and creative in finding solutions to problems you’ve never seen before.
+
+- You need to “build the plane while you are flying it.”
+
+- You need to learn new skills, take risks, and learn from mistakes.
+
+- You need to handle stress and uncertainty with grace.
 
 Being a teacher prepares you to do all of this well. These are not easy skills, and you don’t learn them in college. Contrary to the popular belief that teachers don’t have much to offer, as a teacher, you are likely uniquely suited to succeed in a startup environment, especially when compared to someone who is just a new college grad with little or no professional work experience. In fact, in a more predictable environment like the one you might find at a much larger company, you’re likely to feel under-stimulated if you’re used to the craziness of the classroom.
 
@@ -96,13 +103,21 @@ You may think you need a connection on the inside, someone who will refer you, o
 Former teachers are especially suited to work in Customer Success kinds of roles, which require:
 
 - Relationship-building skills
+
 - Teaching skills (!)
+
 - Ad-hoc problem-solving skills
+
 - Interpersonal communication skills
+
 - Presentation skills/public speaking skills
+
 - Active listening skills
+
 - An understanding of professional communication norms
+
 - The ability to write in a clear and concise way
+
 - The ability to persuade others of a course of action
 
 Many Customer Success roles list qualities like “teacher at heart” as a desired attribute for ideal candidates. Teaching is about helping young people become successful by aiding them in acquiring the skills necessary to succeed interpersonally and professionally. Customer Success is about helping customers become successful by aiding them in implementing and applying your company’s solutions to their business problems.
@@ -112,8 +127,11 @@ If Customer Success isn’t your jam, you may want to look at other roles in Mar
 Other places to look for startup jobs:
 
 - EdSurge for ed-tech jobs: [https://www.edsurge.com/jobs](https://www.edsurge.com/jobs)
+
 - Built In NYC (NYC specific startups): [https://www.builtinnyc.com/](https://www.builtinnyc.com/)
+
 - Startup.jobs: [https://startup.jobs/](https://startup.jobs/)
+
 - Underdog.io: [https://underdog.io/](https://underdog.io/)
 
 Once you have your first new job outside of teaching–once you have your foot in the door–you can take some time to collect a paycheck (likely bigger than your current teacher paycheck) and learn the lay of the land before deciding on the next steps in your career trajectory.
@@ -139,10 +157,15 @@ Former teachers are also uniquely suited to have success once they are promoted 
 Aside from reading the diatribe that is this article, you should also:
 
 - Find former teachers on LinkedIn or in your personal network who have left, and interview them to learn about the path they took. People on LinkedIn are quite open to conversation on this topic.
+
 - Find people on LinkedIn doing jobs you might want to explore (for me this was Customer Success roles, working at ed tech companies), and interview them to find out what their day-to-day is like.
+
 - Speaking of LinkedIn, most teachers have never used it. You will need to beef up your LinkedIn profile, as potential employers will absolutely look at it during the hiring process.
+
 - Look at job listings on Angel.co and other sites to figure out what skills they are looking for that you can emphasize in your resume and in your descriptions of yourself in interviews.
+
 - Update your resume to emphasize particular skills that are key for the roles you are applying to–my resume had an entire section at the top focused on this when I was applying for jobs. (By the way, [here is a link](https://davidfreitag.com/images/freitag_resume_2018.pdf) to what my resume looked like at that time–not quite a masterpiece but it clearly got the job done).
+
 - Apply to jobs, have interviews, good luck!
 
 
@@ -151,9 +174,15 @@ Aside from reading the diatribe that is this article, you should also:
 Here it is:
 
 - Teaching is awesome, but teaching is tough, and you’re not alone if you’re thinking about leaving or even feeling conflicted about leaving.
+
 - As a teacher, you have many marketable skills and can absolutely find a different job if you want one, especially in this remote-first world.
+
 - Tech startups are hiring like crazy and many are willing to take a chance on you.
+
 - Teachers are uniquely suited to do well in Customer Success kinds of roles, and eventually management roles too.
+
 - Angel.co is a great place to find startup jobs.
+
 - Once you have a new job, you can make connections, learn more about other kinds of roles, and plan your next move.
+
 - Teaching will always be there if this doesn’t work out and you want to go back.
