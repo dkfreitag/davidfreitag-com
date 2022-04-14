@@ -32,3 +32,4 @@ You can also check out my online profiles or contact me:
 - **[Twitter](https://www.twitter.com/davidkfreitag)**
 
 - **[dkfreitag@gmail.com](mailto:dkfreitag@gmail.com)**
+
