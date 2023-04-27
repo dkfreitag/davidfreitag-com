@@ -71,15 +71,15 @@ url = "https://github.com/dkfreitag"
 #title = "instagram"
 #url = "https://www.instagram.com/"
 
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "twitter"
-url = "https://www.twitter.com/davidkfreitag/"
+#[[params.socialIcons]]
+#icon = "fab fa-twitter"
+#title = "twitter"
+#url = "https://www.twitter.com/davidkfreitag/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:david.freitag@baruchmail.cuny.edu"
+url = "mailto:dkfreitag@gmail.com"
 
 ## Menu items
 
