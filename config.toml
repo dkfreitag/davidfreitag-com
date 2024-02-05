@@ -91,11 +91,11 @@ url = "mailto:dkfreitag@gmail.com"
   weight = 100
   url = "/"
 
-  [[menu.main]]
-  name = "Archive"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+#  [[menu.main]]
+#  name = "Archive"
+#  weight = 200
+#  identifier = "posts"
+#  url = "/post/"
 
   [[menu.main]]
   name = "About"
