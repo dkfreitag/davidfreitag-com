@@ -20,7 +20,7 @@ git submodule add --force https://github.com/dkfreitag/dkfreitag.github.io.git p
 printf "\033[0;32mBuilding Site...\033[0m\n"
 
 # Build the site with Hugo
-hugo -t anatole # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -D # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go to the public folder
 cd public
