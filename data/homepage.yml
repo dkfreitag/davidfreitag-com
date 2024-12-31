@@ -1,0 +1,114 @@
+## Looking for strings? Check the i18n folder.
+
+# showcase
+showcase:
+  enable: true
+  image:
+    x: "images/profile.jpg"
+    _2x: "images/profile.jpg"
+  imageMobile:
+    x: "images/profile.jpg"
+
+  button:
+    icon: ""
+    URL: "https://maven.com/david-freitag/first-serverless-de-project"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/davidkfreitag/"
+
+    - icon: "square-github"
+      URL: "https://github.com/dkfreitag"
+
+    - icon: "email"
+      URL: "mailto:dkfreitag@gmail.com"
+
+    # - icon: "x-twitter"
+    #   URL: "https://twitter.com/zetxek"
+
+    # - icon: "dribbble"
+    #   URL: "#"
+
+    # - icon: "behance"
+    #   URL: "#"
+
+    # - icon: "youtube"
+    #   URL: "#"
+
+    # - icon: "instagram"
+    #   URL: "https://www.instagram.com/zetxek/"
+
+    # - icon: "square-facebook"
+    #   URL: "https://www.facebook.com/zetxek/"
+
+    # - icon: "codepen"
+    #   URL: "#"
+
+    # - icon: "yelp"
+    #   URL: "https://www.yelp.com/"
+
+    # - icon: "bluesky"
+    #   URL: "https://www.bluesky.com/"
+
+    # - icon: "threads"
+    #   URL: "https://www.threads.net/"
+
+    # - icon: "face-smile"
+    #   URL: "https://www.adrianmoreno.info/"
+
+    # - icon: "user"
+    #   URL: "https://www.adrianmoreno.info/"
+
+    # - icon: "quote-left"
+    #   URL: "https://www.adrianmoreno.info/"
+
+    # - icon: "cloud-arrow-down"
+    #   URL: "https://www.adrianmoreno.info/"
+# about
+about:
+  enable: true
+  button:
+    icon: "icon-user"
+    URL: "#about"
+  image:
+    x: "images/computer.jpg"
+    _2x: "images/computer.jpg"
+
+# education
+education:
+  enable: true
+  items:
+    - university: "Baruch College"
+      year: "2020-2021"
+      degree: "M.S. Information Systems + Data Analytics"
+
+# experience
+## to hiden a button, set the icon to an empty string
+experience:
+  enable: true
+  button:
+    icon: "icon-linkedin"
+  button2:
+    icon: "icon-file-pdf"
+  button3:
+    icon: "icon-cloud-arrow-down"
+
+# Client & Work
+client_and_work:
+  enable: false
+
+# testimonial
+testimonial:
+  enable: false
+
+# contact
+contact:
+  enable: true
+  form:
+    action: "#"
+  button:
+    icon: "icon-email"
+
+# newsletter
+newsletter:
+  enable: false

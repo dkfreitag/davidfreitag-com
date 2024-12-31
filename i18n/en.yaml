@@ -1,0 +1,164 @@
+## Header
+- id: "logo_text1"
+  translation: ""
+
+- id: "logo_text2"
+  translation: "David Freitag"
+
+## Footer
+- id: "footer_notice"
+  translation: "© David Freitag 2025. Built on Adritian, a free Hugo theme by Adrián Moreno Peña."
+
+- id: "language"
+  translation: "Language"
+
+## Homepage head title
+- id: "head_title"
+  translation: "David Freitag - Senior Data Engineer"
+
+- id: "head_description"
+  translation: "David Freitag is a Senior Data Engineer at American Family Insurance and the instructor of Build Your First Serverless Data Engineering Project."
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Hello, I'm David."
+
+- id: "showcase_subtitle"
+  translation: "Senior Data Engineer"
+
+- id: "showcase_description"
+  translation: "
+  <p class='lead'>
+  I'm a Senior Data Engineer at American Family Insurance. I build ETL pipelines that produce modeling datasets for Data Science. My work leverages cloud technologies to efficiently make data available for business decision making and predictive modeling.
+</p>
+<p class='lead'>
+I teach an intro-level Data Engineering course focused on building an end-to-end Data Engineering project in AWS:
+</p>
+"
+
+- id: "showcase_button"
+  translation: "Build Your First Serverless Data Engineering Project"
+
+  ## not visible but used for accessibility
+- id: "showcase_image_alt"
+  translation: "A picture of Cool Name"
+
+## Homepage about
+- id: "about_title"
+  translation: "Presentations and Speaking"
+
+- id: "about_content"
+  translation: "<p class='lead'>
+  <list>
+  <li><a href='https://maven.com/p/656835/sql-toolkit-for-data-engineering?utm_medium=ll_share_link&utm_source=instructor' target='_blank'>SQL Toolkit for Data Engineering</a>
+  <li><a href='https://docs.google.com/presentation/d/1q5dYDO2zl8zZw9kDLK8owcSOLBMNRUhSpAC0zf46d2Q/edit?usp=sharing' target='_blank'>Git and GitHub: Building a Portfolio</a>
+  <li><a href='https://docs.google.com/presentation/d/1sgz0E4U9Wn6NuoddFBNFoBYSnpp01tC2UcEnHuW9pHQ/edit?usp=sharing' target='_blank'>Data Engineering 101 - Enterprise Analytics</a>
+  </list>
+  </p>"
+
+
+- id: "about_button"
+  translation: "LinkedIn"
+
+## Homepage education
+- id: "education_title"
+  translation: "Education"
+
+## Homepage experience
+- id: "experience_title"
+  translation: "Experience"
+
+- id: "experience_description"
+  translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+
+- id: "experience_button"
+  translation: "LinkedIn" 
+
+- id: "experience_button_url"
+  translation: "https://www.linkedin.com/in/davidkfreitag/"
+
+- id: "experience_button2"
+  translation: "Download resume"
+
+- id: "experience_button2_url"
+  translation: "/img/david_freitag_resume.pdf"
+
+- id: "experience_button3"
+  translation: "View all"
+
+- id: "experience_button3_url"
+  translation: "/experience"
+
+## Homepage client & work
+- id: "client_work_title"
+  translation: "Clients & Work"
+
+## Homepage newsletter
+- id: "newsletter_title"
+  translation: "Newsletter"
+
+- id: "newsletter_button"
+  translation: "Subscribe"
+
+- id: "newsletter_placeholder"
+  translation: "Your email"
+
+- id: "newsletter_success_message"
+  translation: "Thank you for subscribing to my newsletter!"
+
+- id: "newsletter_error_message"
+  translation: "An error occurred. Please try again."
+
+- id: "newsletter_note"
+  translation: "We'll never share your email with anyone else."
+
+## Homepage testimonials
+- id: "testimonials_title"
+  translation: "Testimonials"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Contact"
+
+- id: "contact_button"
+  translation: "Send message"
+
+- id: "contact_form_name"
+  translation: "Full Name"
+
+- id: "contact_form_email"
+  translation: "Email Address"
+
+- id: "contact_form_message"
+  translation: "Type Your Message Here"
+
+- id: "contact_phone_title"
+  translation: ""
+
+- id: "contact_phone_number"
+  translation: ""
+
+- id: "contact_email_title"
+  translation: "Email"
+
+- id: "contact_email_email"
+  translation: '<a href="mailto:dkfreitag@gmail.com">dkfreitag@gmail.com</a>'
+
+- id: "contact_address_title"
+  translation: ""
+
+- id: "contact_address_address"
+  translation: ""
+
+- id: "contact_button"
+  translation: "Send Message"
+
+## Blog
+- id: "read_more"
+  translation: "Read more"
+
+- id: "published_on"
+  translation: "Published on"
+
+- id: "continue_reading"
+  translation: "Continue reading"
