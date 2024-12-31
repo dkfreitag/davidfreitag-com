@@ -40,7 +40,7 @@ theme = "adritian-free-hugo-theme"
 
     [languages.en.menus]
       [[languages.en.menus.header]]
-        name = 'Presentation and Speaking'
+        name = 'Presentations and Speaking'
         URL = '#about'
         weight = 2
       # [[languages.en.menus.header]]
@@ -63,7 +63,7 @@ theme = "adritian-free-hugo-theme"
         weight = 6
 
       [[languages.en.menus.footer]]
-        name = "Presentation and Speaking"
+        name = "Presentations and Speaking"
         URL = "#about"
         weight = 2
 
