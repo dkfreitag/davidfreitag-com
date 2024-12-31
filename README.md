@@ -7,4 +7,4 @@ Site information:
 - CDN: Cloudflare - https://www.cloudflare.com/
 - Hosting: GitHub Pages - https://pages.github.com/
 - Static site generator: Hugo - https://gohugo.io/
-- Theme: anatole - https://themes.gohugo.io/themes/adritian-free-hugo-theme/
+- Theme: Adritian - https://themes.gohugo.io/themes/adritian-free-hugo-theme/
