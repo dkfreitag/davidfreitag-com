@@ -32,12 +32,12 @@
   I'm a Senior Data Engineer at American Family Insurance. I build ETL pipelines that produce modeling datasets for Data Science. My work leverages cloud technologies to efficiently make data available for business decision making and predictive modeling.
 </p>
 <p class='lead'>
-I teach an intro-level Data Engineering course focused on building an end-to-end Data Engineering project in AWS:
+I also teach a course called <i>Build Your First Serverless Data Engineering Project</i>.
 </p>
 "
 
 - id: "showcase_button"
-  translation: "Build Your First Serverless Data Engineering Project"
+  translation: "Check out the course"
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
