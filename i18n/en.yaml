@@ -69,7 +69,7 @@ I also teach a course called <i>Build Your First Serverless Data Engineering Pro
   translation: "Experience"
 
 - id: "experience_description"
-  translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+  translation: ""
 
 - id: "experience_button"
   translation: "LinkedIn" 
