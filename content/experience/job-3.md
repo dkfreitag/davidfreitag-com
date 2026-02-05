@@ -10,5 +10,4 @@ duration: "2021 - 2021"
 ---
 ### Data Science Intern
 
-- Analyzed global container scan data using Snowflake SQL, Python, and statistical testing to provide stakeholders with visibility into the Pitney Bowes network.
-- Trained, tested, and tuned a machine learning model using LightGBM to predict cycle time for container journeys between locations within the Pitney Bowes network to improve container arrival forecasts.
+- Trained, tested, and tuned gradient-boosted machine learning models (XGBoost, LightGBM) to improve the accuracy of forecasting shipping container journey times within the Pitney Bowes network.

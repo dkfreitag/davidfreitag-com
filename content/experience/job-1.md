@@ -10,6 +10,6 @@ duration: "2023 - Present"
 ---
 #### Senior Data Engineer
 
-- Project leader: led a team of three engineers to build an ETL pipeline using Google Bigquery, Airflow, Docker, and Kubernetes to refresh AmFam’s largest auto modeling dataset, reducing the time-to-market cycle by months.
-- Improved automation of multiple vendor file transfer processes using Python, GCP Storage API, Google Secret Manager, and GNU Privacy Guard. Decreased person-hours per transfer from 2 hours to 5 minutes per transfer.
-- Mentored a Rotation Analyst in technical skills including Python, BigQuery/SQL, Git/GitLab, Airflow, Terraform, and various services in Google Cloud Platform (GCP) and Amazon Web Services (AWS).
+- Infrastructure Lead on a high-priority AI pilot initiative to improve underwriting risk review accuracy and speed. Responsible for scaling the infrastructure of the AI-powered minimum-viable-product application to additional operating companies, lines of business, and sources of structured and unstructured data. Tech: Python/SQL, GitLab CI/CD, Terraform, GCP Pub/Sub, Docker/Cloud Run, BigQuery, Pydantic AI, LangGraph, Kubernetes.
+- Architected and built multiple ETL pipelines to refresh terabyte-size datasets on demand for data science modeling. These datasets powered the models used to re-price AmFam’s Auto and Property insurance products in all 50 states. Tech: BigQuery SQL, Airflow, Docker, Kubernetes.
+- Improved, automated, and extended a vendor file transfer process for preparing and transferring data securely. Scaled the pipeline to prep and encrypt TB of data in parallel, improving runtimes from days to minutes. Tech: Google Cloud Storage, GCP Secret Manager, GNU Privacy Guard (PGP encryption), Google Batch.
